@@ -187,6 +187,6 @@ footer{
 .foot:hover{
     font-weight: bolder;
 }
-.dropdown{
+.dropbtn{
     cursor:pointer;
 }
